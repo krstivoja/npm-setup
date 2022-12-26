@@ -2,7 +2,6 @@
   "name": "scripts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "js:build": "esbuild src/*.js src/**/*.js --outdir=dist --minify",
     "js:watch": "esbuild src/*.js src/**/*.js --outdir=dist --watch",
