@@ -6,7 +6,7 @@ npm i
 ```
 
 
-Start with building all your files:
+To get "dist" folder start with building all your files:
 ```
 npm run build
 ```
